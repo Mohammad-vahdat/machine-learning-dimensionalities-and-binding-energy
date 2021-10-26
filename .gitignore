@@ -1,4 +1,6 @@
-data/structures/*
+data/*
+
+*pkl
 
 features_assigned_different_columns.pkl
 .ipynb_checkpoints/
