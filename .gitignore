@@ -1,5 +1,6 @@
 data/*
 CIFs/*
+DataFrame_all_structures.pkl
 
 .ipynb_checkpoints/
 *icloud
