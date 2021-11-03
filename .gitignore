@@ -1,8 +1,6 @@
 data/*
 CIFs/*
-*pkl
 
-features_assigned_different_columns.pkl
 .ipynb_checkpoints/
 *icloud
 
