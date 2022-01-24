@@ -1,3 +1,6 @@
+
+False-negatives/*
+False-positives/*
 data/*
 CIFs/*
 DataFrame_all_structures.pkl
